@@ -1,7 +1,6 @@
-/* CUDA - Example 2 - REDUCE with THRUST library
+/* THRUST - Example REDUCE
 thrust::reduce(): need some params and a functor, for this case te minimun functor
-negate function that change the sign of all elements
-extension .cu */
+negate function that change the sign of all elements */
 
 #include <thrust/device_vector.h>
 #include <thrust/host_vector.h>

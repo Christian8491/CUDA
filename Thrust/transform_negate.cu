@@ -1,7 +1,6 @@
-/* CUDA - Example 2 - TRANSFORM with THRUST library
+/* THRUST - Example TRANSFORM 
 thrust::transform(): need a object function (functor), for this case we use the
-negate function that change the sign of all elements
-extension .cu */
+negate function that change the sign of all elements */
 
 #include <thrust/device_vector.h>
 #include <thrust/host_vector.h>
