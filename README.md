@@ -1,2 +1,2 @@
 # CUDA
-Code examples for learn some of CUDA and libraries
+Code examples to learn some of CUDA and libraries
